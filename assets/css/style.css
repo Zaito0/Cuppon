@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.logo {
+    width: 100px;
+}
+
+.titulotarjeta {
+    color: #212529;
+    font-family: 'Roboto', sans-serif;
+}
+
+.textotarjeta {
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+}
+
+.localizacion {
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+
+.precios {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    justify-content: right;
+}
+
+.preciofinal {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+
+.seccionform {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.ultimologo {
+    width: 100px;
+}
+
+footer {
+    text-align: center;
+}
